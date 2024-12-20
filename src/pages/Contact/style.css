@@ -1,0 +1,30 @@
+p{
+    margin: 30px;
+    font-family: "Inter", sans-serif;
+    font-style: italic;
+}
+
+
+.container{
+    margin: 30px;
+}
+
+
+.containerTrabalheConosco{
+    
+    align-items: center;
+    padding: 30px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.containerTrabalheConosco strong{
+    padding: 8px;
+}
+
+.card-trabalhe-conosco{
+    display: flex;
+    width: fit-content;
+    padding: 10px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+}

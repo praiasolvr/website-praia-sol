@@ -1,0 +1,30 @@
+
+
+
+.titulo{
+    font-size: 20px;
+    margin: 30px;
+    font-family: "Inter", sans-serif;
+    font-style: italic;
+}
+
+.subtitulo{
+    margin-left: 60px;
+}
+
+.container{
+    margin: 30px;
+}
+
+.container-empresa{
+    display: flex;
+    flex-direction: row;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.containerQuemSomos{
+    margin-top: 40px;
+    text-align: center;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    padding: 8px;
+}

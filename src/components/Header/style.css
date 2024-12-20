@@ -1,0 +1,28 @@
+header{
+    background-color: #FFFAFA;
+    height: 160px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    align-items: center;
+}
+
+.titulo{
+    font-size: 30px;
+    color: #075AA9;
+}
+
+.logo{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    margin: 30px;
+}
+
+.lista-menu{
+    display: flex;
+    
+}
+
+.lista-menu .item-lista-menu{
+    margin: 0 15px;
+    list-style: none;
+}
